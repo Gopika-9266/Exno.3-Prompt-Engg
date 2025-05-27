@@ -1,7 +1,7 @@
 # Exno.3-Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
-### NAME: Gopika R 
-### REGISTER NUMBER: 212222240031
+### Name: Gopika R 
+### Reg.No: 212222240031
 
 ## Aim:
 To create a comprehensive report for the design of an AI-powered smart agriculture system using diverse prompt patterns. This report will employ scenario-based prompting techniques to guide each stage of the design process, ensuring the solution meets the functional and user experience requirements for precision farming and agricultural optimization.
